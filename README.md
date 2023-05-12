@@ -1,6 +1,6 @@
 ## GET /api/book/search?query=Harry
 
-- Queries MongoDB database for first 20 book records (bookID and title) with titles containing "harry" (case insensitive)
+- Queries MongoDB database for first 20 book records (bookID and title) with titles containing "harry" (example), case insensitive
 - Search results are displayed in Angular FrontEnd client (see github.com/awj90/day35workshop-client)
 
 ## MongoDB query:
